@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaliciousTrafficDataAggregator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f999394252b0c092fc147d5fc4a3df94f3e595d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaliciousTrafficDataAggregator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaliciousTrafficDataAggregator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
